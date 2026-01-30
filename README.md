@@ -11,7 +11,7 @@
 1. **导入库文件**：
    将 `libscpi` 文件夹整体复制到你的工程目录下。
 2. **IDE 配置 (以 MDK 为例)**：
-   * 在工程分组中添加 `Scpi_Lib文件下的libscpi/src` 下的所有 `.c` 文件。
+   * 在工程分组中添加 `Scpi_Lib文件下的scpi-parser-master/libscpi/src` 下的所有 `.c` 文件。
    * 在 `Include Paths` 中添加头文件所在路径。
 
 ---
